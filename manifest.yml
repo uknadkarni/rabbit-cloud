@@ -1,0 +1,8 @@
+---
+applications:
+- name: rabbit-cloud 
+  memory: 512M
+  host: rabbit-cloud 
+  path: target/RabbitCloud-0.0.1-SNAPSHOT.jar
+  services:
+   - my-rabbit 
