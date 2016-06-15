@@ -47,3 +47,4 @@ To receive messages on localhost, in a browser, type
 Run the application on Pivotal Cloud Foundry, first push the application to Pivotal Cloud Foundry
 
 `cf push`
+# rabbit-cloud
